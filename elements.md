@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Machine Learning
+image: assets/images/ml.jpg
 nav-menu: true
 ---
 
