@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: 3D Designs
 description: Works done in blender
 image: assets/images/3d.jpg
@@ -13,7 +13,7 @@ nav-menu: true
                 <img src="images/pic01.jpg" alt="" />
               </span>
               <header class="major">
-                <h3><a href="landing.html" class="link">Aliquam</a></h3>
+                <h3><a href="landing.html" class="link">Pendulum</a></h3>
                 <p>Ipsum dolor sit amet</p>
               </header>
             </article>
@@ -22,7 +22,7 @@ nav-menu: true
                 <img src="images/pic02.jpg" alt="" />
               </span>
               <header class="major">
-                <h3><a href="landing.html" class="link">Tempus</a></h3>
+                <h3><a href="landing.html" class="link">Roll ball</a></h3>
                 <p>feugiat amet tempus</p>
               </header>
             </article>
@@ -31,7 +31,7 @@ nav-menu: true
                 <img src="images/pic03.jpg" alt="" />
               </span>
               <header class="major">
-                <h3><a href="landing.html" class="link">Magna</a></h3>
+                <h3><a href="landing.html" class="link">Rise of the cube</a></h3>
                 <p>Lorem etiam nullam</p>
               </header>
             </article>
