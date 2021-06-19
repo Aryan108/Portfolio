@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 3D Designs
 description: Works done in blender
 image: assets/images/3d.jpg
