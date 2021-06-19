@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: by Akshay Sarman
 email: ayakkatakshay@gmail.com
 description: A curated collection some interesting projects.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Akshay
 street_address: Krishnath Ayakkat Mana, Pullazhi P.O
