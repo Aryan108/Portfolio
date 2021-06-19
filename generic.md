@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: 3D Designs
+description: Woeks done in blender
+image: assets/images/3d.jpg
 nav-menu: true
 ---
 
