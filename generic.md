@@ -1,13 +1,68 @@
 ---
 layout: home
 title: 3D Designs
-description: Woeks done in blender
+description: Works done in blender
 image: assets/images/3d.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<div id="main">
+  <section id="one" class="tiles">
+            <article>
+              <span class="image">
+                <img src="images/pic01.jpg" alt="" />
+              </span>
+              <header class="major">
+                <h3><a href="landing.html" class="link">Aliquam</a></h3>
+                <p>Ipsum dolor sit amet</p>
+              </header>
+            </article>
+            <article>
+              <span class="image">
+                <img src="images/pic02.jpg" alt="" />
+              </span>
+              <header class="major">
+                <h3><a href="landing.html" class="link">Tempus</a></h3>
+                <p>feugiat amet tempus</p>
+              </header>
+            </article>
+            <article>
+              <span class="image">
+                <img src="images/pic03.jpg" alt="" />
+              </span>
+              <header class="major">
+                <h3><a href="landing.html" class="link">Magna</a></h3>
+                <p>Lorem etiam nullam</p>
+              </header>
+            </article>
+            <article>
+              <span class="image">
+                <img src="images/pic04.jpg" alt="" />
+              </span>
+              <header class="major">
+                <h3><a href="landing.html" class="link">Ipsum</a></h3>
+                <p>Nisl sed aliquam</p>
+              </header>
+            </article>
+            <article>
+              <span class="image">
+                <img src="images/pic05.jpg" alt="" />
+              </span>
+              <header class="major">
+                <h3><a href="landing.html" class="link">Consequat</a></h3>
+                <p>Ipsum dolor sit amet</p>
+              </header>
+            </article>
+            <article>
+              <span class="image">
+                <img src="images/pic06.jpg" alt="" />
+              </span>
+              <header class="major">
+                <h3><a href="landing.html" class="link">Etiam</a></h3>
+                <p>Feugiat amet tempus</p>
+              </header>
+            </article>
+          </section>
+  
+  
+  </div>
