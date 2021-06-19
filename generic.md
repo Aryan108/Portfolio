@@ -7,6 +7,7 @@ nav-menu: true
 ---
 
 <div id="main">
+  <h1>3D Designs</h1>
   <section id="one" class="tiles">
             <article>
               <span class="image">
